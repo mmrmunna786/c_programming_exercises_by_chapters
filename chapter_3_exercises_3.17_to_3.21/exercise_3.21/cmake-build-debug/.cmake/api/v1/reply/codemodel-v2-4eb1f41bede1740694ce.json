@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.23"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "exercise_3_21",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "exercise_3_21::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-exercise_3_21-Debug-914c2a180245fd8ab666.json",
+					"name" : "exercise_3_21",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/munnarahman/Documents/c_programming/c_programming_exercises_by_chapters/chapter_3_exercises_3.17_to_3.21/exercise_3.21/cmake-build-debug",
+		"source" : "/Users/munnarahman/Documents/c_programming/c_programming_exercises_by_chapters/chapter_3_exercises_3.17_to_3.21/exercise_3.21"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

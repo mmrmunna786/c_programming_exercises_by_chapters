@@ -14,7 +14,7 @@
 #include <stdio.h>
 #include <math.h>
 
-float roundNumber(float x);
+float roundNumber(float x); // function prototype
 
 // function main begins program execution
 int main() {

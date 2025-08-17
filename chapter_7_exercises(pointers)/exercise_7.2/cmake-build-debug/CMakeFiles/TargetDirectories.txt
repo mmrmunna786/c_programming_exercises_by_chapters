@@ -1,0 +1,3 @@
+/Users/munnarahman/Documents/c_programming/c_programming_exercises_by_chapters/chapter_7_exercises(pointers)/exercise_7.2/cmake-build-debug/CMakeFiles/exercise_7_2.dir
+/Users/munnarahman/Documents/c_programming/c_programming_exercises_by_chapters/chapter_7_exercises(pointers)/exercise_7.2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/munnarahman/Documents/c_programming/c_programming_exercises_by_chapters/chapter_7_exercises(pointers)/exercise_7.2/cmake-build-debug/CMakeFiles/rebuild_cache.dir

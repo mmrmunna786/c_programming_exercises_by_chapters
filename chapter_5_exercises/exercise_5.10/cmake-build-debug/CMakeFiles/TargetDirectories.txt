@@ -1,3 +1,0 @@
-/Users/munnarahman/Documents/c_programming/c_programming_exercises_by_chapters/chapter_5_exercises/exercise_5.10/cmake-build-debug/CMakeFiles/exercise_5_10.dir
-/Users/munnarahman/Documents/c_programming/c_programming_exercises_by_chapters/chapter_5_exercises/exercise_5.10/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/munnarahman/Documents/c_programming/c_programming_exercises_by_chapters/chapter_5_exercises/exercise_5.10/cmake-build-debug/CMakeFiles/rebuild_cache.dir
